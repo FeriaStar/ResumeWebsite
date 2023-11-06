@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Top{
+	/*Aendre Font Storrelse af Class Head*/
+	Font-size: 75px;
+}
+#TableTop {
+	background: #B1B1B1;
+	border: 2px solid;
+	width: 100%;
+}
