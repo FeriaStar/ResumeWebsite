@@ -1,12 +1,21 @@
 @charset "utf-8";
 /* CSS Document */
 
-.Top{
+.Top, span{
 	/*Aendre Font Storrelse af Class Head*/
 	Font-size: 75px;
 }
-#TableTop {
+span{
+	text-align: left;
+}
+.TableTop {
+	/*Farve og detajler til topbar*/
 	background: #B1B1B1;
 	border: 2px solid;
 	width: 100%;
+}
+
+.Hjem {
+	/*Hjalp til at skalere ting paa menu baren i toppen*/
+	width: 30%
 }
