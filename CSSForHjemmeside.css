@@ -19,3 +19,37 @@ span{
 	/*Hjalp til at skalere ting paa menu baren i toppen*/
 	width: 30%
 }
+.Navigation /*flytter tablen med stjerne til midten/bedre lokation*/{
+	margin-top: 100px;
+	margin-left: 200px;
+}
+p{
+	text-align: left;
+	font-size: 30px;
+}
+/*Giver de forskellige table-blocks en hover funktion til deres individuel farve + opacity*/
+#Yellow:hover{
+	background: #FFFF00;
+	opacity: 0.8;
+}
+#Red:hover{
+	background: #FF0000;
+	opacity: 0.8;
+}
+#Purple:hover{
+	background: #FF00FF;
+	opacity: 0.8;
+}
+#Blue:hover{
+	background: #0000FF;
+	opacity: 0.8;
+}
+#Green:hover{
+	background:#00FF00;
+	opacity: 0.8;
+}
+#White:hover{
+	background: linear-gradient(Yellow, Blue)/*Lidt mere unik farve end bare Hvid*/;
+	opacity: 0.8;
+}
+
