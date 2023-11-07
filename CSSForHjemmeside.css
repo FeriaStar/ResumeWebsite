@@ -19,13 +19,13 @@ span{
 	/*Hjalp til at skalere ting paa menu baren i toppen*/
 	width: 30%
 }
-.Navigation /*flytter tablen med stjerne til midten/bedre lokation*/{
+.Navigation /*flytter tablen med stjerner til midten/bedre lokation*/{
 	margin-top: 100px;
 	margin-left: 200px;
 }
 p{
-	text-align: left;
-	font-size: 30px;
+	text-align: center;
+	font-size: 50px;
 }
 /*Giver de forskellige table-blocks en hover funktion til deres individuel farve + opacity*/
 #Yellow:hover{
