@@ -41,6 +41,9 @@ p{
 #Bar{
 	border: 6px solid #7E00A3;
 }
+.Link{
+	color: #000000;
+}
 #Social{
 	padding-left: 310px; 
 }

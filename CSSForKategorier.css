@@ -41,6 +41,9 @@ p{
 #Bar{
 	border: 6px solid #FFAA38;
 }
+.Link{
+	color: #000000;
+}
 .Dania{
 	float: right;
 	padding: 15px 120px 15px 50px;

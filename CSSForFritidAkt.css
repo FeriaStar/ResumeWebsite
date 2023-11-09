@@ -41,6 +41,9 @@ p{
 #Bar{
 	border: 6px solid #870002;
 }
+.Link{
+	color: #000000;
+}
 #Spejder{
 	float: none;
 	padding: 20px 500px

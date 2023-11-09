@@ -38,6 +38,9 @@ p{
 	color: white;
 	text-align: left;
 }
+.Link{
+	color: #000000;
+}
 #Bar{
 	border: 6px solid #000082;
 }

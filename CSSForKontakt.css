@@ -33,17 +33,14 @@ span{
 	width: 915px;
 }
 p{
-	font-size: 20px;
-	padding: 5px;
-	color: white;
+	font-size: 40px;
+	padding: 0px;
+	color: black;
 	text-align: left;
 }
 #Bar{
-	border: 6px solid #008900;
+	border: 6px solid #A9A9A9;
 }
 .Link{
 	color: #000000;
-}
-#Picture{
-	padding: 20px 450px;
 }

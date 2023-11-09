@@ -11,7 +11,7 @@ span{
 .TableTop {
 	/*Farve og detajler til topbar*/
 	background: #B1B1B1;
-	border: 2px solid;
+	border: 3px solid;
 	width: 100%;
 }
 
@@ -26,6 +26,9 @@ span{
 p{
 	text-align: center;
 	font-size: 50px;
+}
+.Link{
+	color: #000000;
 }
 /*Giver de forskellige table-blocks en hover funktion til deres individuel farve + opacity*/
 #Yellow:hover{
